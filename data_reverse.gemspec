@@ -12,6 +12,7 @@ Gem::Specification.new do |s|
   s.date        = '2017-12-25'
   s.summary     = 'JSON data reverse mechanism'
   s.description = 'Sample GEM for Amoniac'
+  s.homepage    = 'https://github.com/ViXP/data_reverse_gem'
   s.license     = 'MIT'
 
   s.files = Dir[
