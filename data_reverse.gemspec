@@ -19,8 +19,8 @@ Gem::Specification.new do |s|
     '{app,config,test,lib}/**/*', 'MIT-LICENSE', 'Rakefile', 'README.md'
   ]
 
-  s.add_dependency 'rails', '~> 5'
+  s.add_dependency 'rails', '~> 6.0'
 
   s.add_development_dependency 'sqlite3', '~> 0'
-  s.add_development_dependency 'rspec-rails', '~> 3.5'
+  s.add_development_dependency 'rspec-rails', '~> 3.8'
 end
